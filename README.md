@@ -15,18 +15,19 @@
 
 ## 🛠️ Tech Stack (Learning & Using)
 ![BlackArch](https://img.shields.io/badge/-BlackArch-000000?logo=arch-linux&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?logo=arch-linux&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?logo=arch-linux&logoColor=white) 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![Ethical Hacking](https://img.shields.io/badge/-Ethical%20Hacking-2E3440?logo=kalilinux&logoColor=white)
 ![Hyprland](https://img.shields.io/badge/-Hyprland-00A0E4?logo=wayland&logoColor=white)
 ![Bruteforce](https://img.shields.io/badge/-Bruteforce-E95420?logo=hackaday&logoColor=white)
 ![SQL Injection](https://img.shields.io/badge/-SQL%20Injection-4479A1?logo=mysql&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+
 
 *(🟢 = already using | 🟡 = still learning)*
 
