@@ -1,6 +1,6 @@
 <!-- Neon Banner -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=FF00FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B,+I'm+Hans;Fullstack+Dev+in+Progress;Ethical+Hacking+Learner;Coffee+%26+Code+Lifestyle;Ngerusak+jam+tidur+demi+jam+terbang+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=FF00FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B,+I'm+Hans;Fullstack+Dev+in+Progress;Ethical+Hacking+Learner;Coffee+%26+Code+Lifestyle; Ngerusak+jam+tidur+demi+jam+terbang+🔥" />
 </h1>
 
 ---
@@ -36,7 +36,7 @@
 
 ## 🏆 GitHub Profile Trophy
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hanifsptra&theme=matrix&no-bg=true&row=1&column=6&title=Commits,Repositories,Experience,Stars,Followers,PullRequest" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Hanifsptra&theme=radical&no-bg=true&row=1&column=3&title=Commits,Repositories,Experience,Stars,Followers,PullRequest" />
 </p>
 
 ---
