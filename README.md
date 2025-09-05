@@ -14,10 +14,11 @@
 ---
 
 ## 🛠️ Tech Stack (Learning & Using)
-![Kali Linux](https://img.shields.io/badge/-Ethical%20Hacking-2E3440?logo=kalilinux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-2E3440?logo=kalilinux&logoColor=white)
 ![BlackArch](https://img.shields.io/badge/-BlackArch-000000?logo=arch-linux&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?logo=arch-linux&logoColor=white) 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  
+
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
