@@ -27,6 +27,7 @@
 ![Bruteforce](https://img.shields.io/badge/-Bruteforce-E95420?logo=hackaday&logoColor=white)
 ![SQL Injection](https://img.shields.io/badge/-SQL%20Injection-4479A1?logo=mysql&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white)
+
 -still learning
 
 ---
