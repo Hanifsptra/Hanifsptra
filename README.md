@@ -17,10 +17,9 @@
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-2E3440?logo=kalilinux&logoColor=white)
 ![BlackArch](https://img.shields.io/badge/-BlackArch-000000?logo=arch-linux&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?logo=arch-linux&logoColor=white) 
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  
-
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)   
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
