@@ -6,10 +6,10 @@
 ---
 
 ## 🚀 About Me
--  Backend Developer in progress | ☕ Coffee & 💻 Code
--  Currently learning: Python, Linux, Web Development, Ethical Hacking
+-  AI Developer in progress | ☕ Coffee & 💻 Code
+-  Currently learning: Python, C++, Machine Learning, Deep Learning, Linux, Web Development, Ethical Hacking
 -  Goal: Build cool projects & explore AI/Fullstack world
--  Fun fact: Bisa ngoding sambil ngopi & ngerokok biar ga tumbang
+-  Fun fact: ngoding kalo mood doang
 
 ---
 
